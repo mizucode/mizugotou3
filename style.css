@@ -1,0 +1,19 @@
+:root {
+    --main-color: #6f53fa;
+    --dark-color: #e2edff;
+    --light-color: #322f40;
+    --text-color: hsl(0, 0%, 91%);
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#projects {
+    background-color: var(--dark-color);
+}
+
+section {
+    padding-top: 6rem;
+}
